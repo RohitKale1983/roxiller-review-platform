@@ -45,3 +45,14 @@ roxiller-system/
 
 
 ---
+## 🧪 Example Test Accounts
+
+You can use the following test accounts to explore each role:
+
+| Role         | Email                             | Password       |
+|--------------|-----------------------------------|----------------|
+| 👤 User       | anjalisharma@example.com          | Password@123   |
+| 🏪 Store Owner| nisha.kulkarni@store.com          | Password@123   |
+| 🛠 Admin      | admin@example.com                 | Admin@123      |
+
+> These can be pre-seeded in the database or registered manually depending on your setup.
